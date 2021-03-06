@@ -1,8 +1,8 @@
 <p align="center">
-<a href="https://bit.ly/3bgtjYk"><img title="Made in INDIA" src="https://img.shields.io/badge/MADE%20IN-INDIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://bit.ly/3bgtjYk"><img title="Made in INDONESIA" src="https://img.shields.io/badge/MADE%20IN-INDONESIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://bit.ly/3bgtjYk"><img title="Made in INDIA" src="https://img.shields.io/badge/Tool-Infect-green.svg"></a>
+<a href="https://bit.ly/3bgtjYk"><img title="Made in INDONESIA" src="https://img.shields.io/badge/Tool-Infect-green.svg"></a>
 <a href="https://bit.ly/3bgtjYk"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://bit.ly/3bgtjYk"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
@@ -10,16 +10,16 @@
 <a href="https://bit.ly/3bgtjYk"><img title="infect" src="https://user-images.githubusercontent.com/49580304/96560822-a3963000-1273-11eb-8fc0-4ba87336cccf.jpg"></a>
 </p>
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="Github" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://github.com/zakiahsanS"><img title="Github" src="https://img.shields.io/badge/zakiahsanS-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/zakiahsanS"><img title="YouTube" src="https://img.shields.io/badge/YouTube-MukazuMZ-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 <p align="center">
-<a href="https://github.com/noob-hackers"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
-<a href="https://github.com/noob-hackers"><img title="Followers" src="https://img.shields.io/github/followers/noob-hackers?color=blue&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Stars" src="https://img.shields.io/github/stars/noob-hackers/infect?color=red&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Forks" src="https://img.shields.io/github/forks/noob-hackers/infect?color=red&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Watching" src="https://img.shields.io/github/watchers/noob-hackers/infect?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/noob-hackers"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+<a href="https://github.com/zakiahsanS"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
+<a href="https://github.com/zakiahsanS"><img title="Followers" src="https://img.shields.io/github/followers/zakiahsanS?color=blue&style=flat-square"></a>
+<a href="https://github.com/zakiahsanS"><img title="Stars" src="https://img.shields.io/github/stars/zakiahsanS/infect?color=red&style=flat-square"></a>
+<a href="https://github.com/zakiahsanS"><img title="Forks" src="https://img.shields.io/github/forks/zakiahsanS/infect?color=red&style=flat-square"></a>
+<a href="https://github.com/zakiahsanS"><img title="Watching" src="https://img.shields.io/github/watchers/zakiahsanS/infect?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/zakiahsanS"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
 ## ABOUT TOOL :
@@ -54,7 +54,7 @@ Infect is a bash based script which is officially made for termux users and from
 * `pkg install python2 -y`
 * `pkg install git -y`
 * `pip install lolcat`
-* `git clone https://github.com/noob-hackers/infect`
+* `git clone https://github.com/zakiahsanS/infect`
 * `cd $HOME`
 * `ls`
 * `cd infect`
@@ -106,7 +106,7 @@ __EXIT__ :
 ## BUY ME A COFFEE :
 
 <p align="center">
-<a href="https://rebrand.ly/BuyCoffee"><img title="Noob Hackers" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
+<a href="https://rebrand.ly/BuyCoffee"><img title="Zaki Gans" src="https://camo.githubusercontent.com/ae8af018f80649f3d379eb23dbf59acceaffa24e/68747470733a2f2f6c69626572617061792e636f6d2f6173736574732f776964676574732f646f6e6174652e737667"></a>
 </p>
 
 ## WARNING : 
