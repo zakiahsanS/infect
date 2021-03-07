@@ -90,7 +90,7 @@ __EXIT__ :
 
 ## SOSMED 
 
-* [WA](wa.me/6283144780782)
+* [WA](https://wa.me/6283144780782)
 
 * [IG](https://instagram.com/sanglord_)
 
