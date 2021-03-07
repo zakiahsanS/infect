@@ -90,7 +90,9 @@ __EXIT__ :
 
 ## ??
 
-## ??
+## SOSMED 
+
+* [WA](wa.me/6283144780782)
 
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
