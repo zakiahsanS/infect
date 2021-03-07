@@ -94,5 +94,9 @@ __EXIT__ :
 
 * [WA](wa.me/6283144780782)
 
+* [IG](https://instagram.com/sanglord_)
+
+* [YT](https://youtube.com/c/MikazuMZ)
+
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
